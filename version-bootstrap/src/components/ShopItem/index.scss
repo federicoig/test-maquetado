@@ -1,0 +1,15 @@
+.shop-item {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    img {
+        border-bottom: 1px solid black;
+        width: 100%;
+        height: 100%;
+    }
+    span {
+        margin-top: 4px;
+    }
+}

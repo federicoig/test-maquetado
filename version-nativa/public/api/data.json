@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatilla 1-XFK",
+    "type": "Zapatillas",
+    "size": "36",
+    "price": 5000,
+    "color": "Blanco",
+    "img": "api/products/zapatilla_1.jpg"
+  }, 
+  {
+    "id": 2,
+    "name": "Zapatilla 2000-X",
+    "type": "Zapatillas",
+    "size": "40",
+    "price": 5500,
+    "color": "Negro",
+    "img": "api/products/zapatilla_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zapatilla 3 Run",
+    "type": "Zapatillas",
+    "size": "44",
+    "price": 6000,
+    "color": "Amarillo",
+    "img": "api/products/zapatilla_3.jpg"
+  },
+    {
+    "id": 4,
+    "name": "Zapato 1-XFK",
+    "type": "Zapatos",
+    "size": "36",
+    "price": 5000,
+    "color": "Blanco",
+    "img": "api/products/zapatilla_1.jpg"
+  },
+    {
+    "id": 5,
+    "name": "Zapato 2000-X",
+    "type": "Zapatos",
+    "size": "40",
+    "price": 5500,
+    "color": "Negro",
+    "img": "api/products/zapatilla_2.jpg"
+  }, 
+    {
+    "id": 6,
+    "name": "Zapato 3 Run",
+    "type": "Zapatos",
+    "size": "44",
+    "price": 6000,
+    "color": "Amarillo",
+    "img": "api/products/zapatilla_3.jpg"
+  }, 
+    {
+    "id": 7,
+    "name": "Bota 1-XFK",
+    "type": "Botas",
+    "size": "36",
+    "price": 5000,
+    "color": "Blanco",
+    "img": "api/products/zapatilla_1.jpg"
+  }, 
+    {
+    "id": 8,
+    "name": "Bota 2000-X",
+    "type": "Botas",
+    "size": "40",
+    "price": 5500,
+    "color": "Negro",
+    "img": "api/products/zapatilla_2.jpg"
+  }, 
+    {
+    "id": 9,
+    "name": "Bota 3 Run",
+    "type": "Botas",
+    "size": "44",
+    "price": 6000,
+    "color": "Amarillo",
+    "img": "api/products/zapatilla_3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Zapatilla 1-XFK",
+    "type": "Zapatillas",
+    "size": "36",
+    "price": 5000,
+    "color": "Blanco",
+    "img": "api/products/zapatilla_1.jpg"
+  }, 
+  {
+    "id": 11,
+    "name": "Zapatilla 2000-X",
+    "type": "Zapatillas",
+    "size": "40",
+    "price": 5500,
+    "color": "Negro",
+    "img": "api/products/zapatilla_2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Zapatilla 3 Run",
+    "type": "Zapatillas",
+    "size": "44",
+    "price": 6000,
+    "color": "Amarillo",
+    "img": "api/products/zapatilla_3.jpg"
+  }
+]

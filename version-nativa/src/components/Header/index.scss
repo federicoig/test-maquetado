@@ -1,0 +1,98 @@
+.header-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #100217E6;
+    padding-top: 1%;
+    .wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        .menu-button {
+            display: none;
+            width: 24px;
+            height: 24px;
+            filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(196deg) brightness(108%) contrast(101%);
+        }
+        .image-wrapper {
+            display: flex;
+            justify-content: flex-end;
+            .logo {
+                margin: auto;
+                width: 206px;
+                height: 30px;
+            }
+        }
+        .buttons {
+            display: flex;
+            justify-content: flex-end;
+            width: 42%;
+            .icon {
+                margin-right: 3%;
+                width: 24px;
+                height: 24px;
+                filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(196deg) brightness(108%) contrast(101%);
+            }
+        }
+    }
+    .nav-bar {
+        width: 75%;
+        .nav-links {
+            display: flex;
+            justify-content: space-around;
+            .focus {
+                font-weight: 500;
+            }
+            .nav-link {
+                font-size: 18px;
+                list-style: none;
+                margin-right: 5%;
+                a {
+                    color: #FAFAFA;
+                    text-decoration: none;
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .header-wrapper {
+        padding-bottom: 5%;
+        .wrapper {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            .image-wrapper {
+                display: block;
+                .logo {
+                    width: 140px;
+                    height: 20px;
+                }
+            }
+            .menu-button {
+                display: inline;
+                margin-left: 2%;
+            }
+            .buttons {
+                width: 0;
+                margin-right: 2%;
+                .search {
+                    display: none;
+                }
+                .user {
+                    display: none;
+                }
+            }
+        }
+        .nav-bar {
+            display: none;
+        }
+    }
+}

@@ -1,3 +1,10 @@
+# Instrucciones y notas...
+
+* El proyecto lo hice primero de forma nativa, utilizando CSS Grid y CSS Flexbox. Después hice otra versión utilizando el sistema de Grid de Bootstrap.
+* Para iniciar alguna de las dos versiones, al entrar al proyecto, utilizar `cd version-NATIVA/BOOTSTRAP` para situarte en alguna de las dos versiones
+y luego `npm run install` para instalar las dependencias (lo último se tiene que hacer en las dos carpetas)
+* Finalmente, `npm run start` para iniciar el proyecto.
+
 # Ejercicio de maquetado html & css
 En el siguiente vínculo vas a encontrar el diseño de una web hecho en Adobe XD, en versión desktop y mobile:
 https://xd.adobe.com/view/f3229a4d-559d-4a23-500f-6c99f584ac0e-8513/
