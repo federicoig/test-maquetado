@@ -1,8 +1,10 @@
 # Instrucciones y notas...
 
-* El proyecto lo hice primero de forma nativa, utilizando CSS Grid y CSS Flexbox. Después hice otra versión utilizando el sistema de Grid de Bootstrap.
-* Para iniciar alguna de las dos versiones, al entrar al proyecto, utilizar `cd version-NATIVA/BOOTSTRAP` para situarte en alguna de las dos versiones
-y luego `npm run install` para instalar las dependencias (lo último se tiene que hacer en las dos carpetas)
+El proyecto lo hice primero de forma nativa, utilizando CSS Grid y CSS Flexbox. Después hice otra versión utilizando el sistema de Grid de Bootstrap.
+
+<strong>Para iniciar alguna de las dos versiones:</strong> 
+* Utilizar `cd version-NATIVA/BOOTSTRAP` para situarte en alguna de las dos versiones
+* Luego `npm run install` para instalar las dependencias (se debería hacer en cada versión)
 * Finalmente, `npm run start` para iniciar el proyecto.
 
 # Ejercicio de maquetado html & css
